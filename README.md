@@ -6,9 +6,9 @@ I'm Andrian, a passionate DevOps engineer with a strong software engineering bac
   I focus on automating workflows, optimizing cloud infrastructure, and ensuring system scalability and reliability. My role involves managing CI/CD pipelines, streamlining data migrations, and developing monitoring solutions to enhance operational efficiency.
 
 - 🌱 **Currently learning:**  
-  - 🖥️ **JavaScript**  
-  - ⚛️ **React**  
-  - 🎨 **Tailwind CSS**
+  -  **Docker**  
+  -  **Microsoft Azure**  
+  -  **Node.js**
 
 - 💬 **Ask me about:** DevOps, Cloud Infrastructure, or Software Engineering.
 
